@@ -19,13 +19,11 @@ const LoadButtonComponent = ({
             tooltipId="load-button"
         >
             <ButtonComponent
-                disabled
                 onClick={onClick}
             >
                 {title}
             </ButtonComponent>
             <input
-                disabled
                 accept=".sb,.sb2,.sb3,.zip"
                 className={styles.fileInput}
                 ref={inputRef}
