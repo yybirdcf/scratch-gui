@@ -27,7 +27,7 @@
     "react-dom": "^16.0.0"
   },
   "dependencies": {
-    "scratch-vm": "github:kchadha/scratch-vm#serialization-cleanup"
+    "scratch-vm": "github:kchadha/scratch-vm#sb3-validation-config"
   },
   "devDependencies": {
     "autoprefixer": "^8.1.0",
